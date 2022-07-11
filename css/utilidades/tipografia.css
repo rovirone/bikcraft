@@ -1,33 +1,33 @@
 .font-1-xxl {
-  font-size: 64px;
+  font-size: 4rem;
   line-height: 1.125;
   font-family: "Poppins";
   font-weight: 600;
 }
 
 .font-1-xl {
-  font-size: 32px;
+  font-size: 2rem;
   line-height: 1.25;
   font-family: "Poppins";
   font-weight: 600;
 }
 
 .font-1-l {
-  font-size: 24px;
+  font-size: 1.5rem;
   line-height: 1.5;
   font-family: "Poppins";
   font-weight: 400;
 }
 
 .font-2-l {
-  font-size: 24px;
+  font-size: 1.5rem;
   line-height: 1.5;
   font-family: "Roboto";
   font-weight: 400;
 }
 
 .font-2-l-b {
-  font-size: 24px;
+  font-size: 1.5rem;
   line-height: 1.5;
   text-transform: uppercase;
   font-family: "Roboto";
@@ -36,49 +36,49 @@
 }
 
 .font-1-m {
-  font-size: 18px;
+  font-size: 1.125rem;
   line-height: 1.33;
   font-family: "Poppins";
   font-weight: 400;
 }
 
 .font-1-m-b {
-  font-size: 18px;
+  font-size: 1.125rem;
   line-height: 1.33;
   font-family: "Poppins";
   font-weight: 600;
 }
 
 .font-2-m {
-  font-size: 18px;
+  font-size: 1.125rem;
   line-height: 1.33;
   font-family: "Roboto";
   font-weight: 500;
 }
 
 .font-1-s {
-  font-size: 16px;
+  font-size: 1rem;
   line-height: 1.5;
   font-family: "Poppins";
   font-weight: 500;
 }
 
 .font-2-s {
-  font-size: 16px;
+  font-size: 1rem;
   line-height: 1.5;
   font-family: "Roboto";
   font-weight: 400;
 }
 
 .font-2-xs {
-  font-size: 14px;
+  font-size: 0.875rem;
   line-height: 1.43;
   font-family: "Roboto";
   font-weight: 400;
 }
 
 .font-1-xs {
-  font-size: 12px;
+  font-size: 0.75rem;
   line-height: 1.33;
   font-family: "Poppins";
   font-weight: 600;
