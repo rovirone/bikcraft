@@ -6,6 +6,7 @@
 
 /* Utilidades */
 @import "./utilidades/componentes.css";
+@import "./utilidades/formulario.css";
 
 /* Home */
 @import "./home/introducao.css";
@@ -15,6 +16,7 @@
 @import "./bicicletas/bicicletas.css";
 /* Bicicleta */
 @import "./bicicleta/bicicleta.css";
+@import "./bicicleta/seguro.css";
 /* Tecnologia */
 @import "./home/tecnologia.css";
 /* Parceiros */
@@ -30,3 +32,8 @@
 
 /* Termos */
 @import "./termos/termos.css";
+
+/* Contato */
+@import "./contato/contato.css";
+/* Contato */
+@import "./contato/lojas.css";
